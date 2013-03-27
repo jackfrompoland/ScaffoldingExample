@@ -1,0 +1,5 @@
+Aplikacja powstala w oparciu o drugi rozdzial manuala:
+
+http://ruby.railstutorial.org/chapters/a-demo-app#sec-deploying_the_demo_app
+
+pokazuje jak mozna zrobic prosta stronke z userem i micropostami, jak zrobic relacje jeden do wielu 
